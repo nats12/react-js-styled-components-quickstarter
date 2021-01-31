@@ -1,23 +1,20 @@
 # React Styled Components Quickstarter
 
-Do you often use create-react-app combined with styled-components for your React web apps? 
+🤔 Do you often use create-react-app combined with styled-components for your React web apps? 
 
 [**nod here**] 
 
-Cool, me too! And I find that I tend to set up my projects using the same structure over and over again. So why not clone a repo that's already structured in this way! 
+Cool, me too! 🚀 And I find that I tend to set up my projects using the same structure over and over again. 
+
+ So I've created this quickstarter repo following that same structure for a quick and easy clone!
 
 ## Structure
-After installing a fresh copy of create-react-app, I did the following:
+After installing a fresh copy of create-react-app, the following was added:
 
-1. Installed styled-components and added some theme files:
--- `colours.js`
--- `devices.js`
--- `sizes.js` (used in devices)
--- `index.js` (for exporting our theme)
-2. Wrapped our app in a `ThemeProvider` using the above theme.
-3. Added some global styles.
-4. Created a __\__tests____ directory for all tests.
-
+- Files for your colours & breakpoints! 📱💻
+- A `ThemeProvider` to wrap around your app using the above styles 🎨
+- Some global styles using `createGlobalStyle` 🌍
+- A __\__tests____ directory for your tests. ✅
 
 That's it! 
 
