@@ -1,4 +1,4 @@
-# React Styled Components Quickstarter
+# React JS Styled Components Quickstarter
 
 🤔  Do you often use create-react-app combined with styled-components for your React web apps? 
 
@@ -21,4 +21,6 @@ That's it!
 I find working with this structure super useful. And who doesn't love saving a few minutes of repo setup? 😎
 
 Enjoy!
+
+##### **Note: A TypeScript version can be found [here.](https://github.com/nats12/react-ts-styled-components-quickstarter)**
 
